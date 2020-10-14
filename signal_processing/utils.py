@@ -11,7 +11,6 @@ import sys
 import random
 import scipy.io.wavfile
 
-
 def create_dir(path:str):
     """Create directory if the path doest exist
 
