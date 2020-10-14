@@ -7,8 +7,6 @@ import tensorflow as tf
 import scipy.io   
 import matplotlib.pyplot as plt
 import os
-import sys
-import random
 import scipy.io.wavfile
 
 def create_dir(path:str):
