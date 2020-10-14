@@ -1,4 +1,4 @@
-# Developed for a seminar project: Edge-computing-with-tf
+### Developed for a seminar project: Edge-computing-with-tf
 
 Audio signal preprocessing steps for preparing the audio datasets to train Deep generative neural networks
 
